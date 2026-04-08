@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gstcalculatorindia.vercel.app/sitemap.xml
